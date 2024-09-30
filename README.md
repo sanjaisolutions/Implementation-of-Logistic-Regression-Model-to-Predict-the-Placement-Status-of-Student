@@ -19,7 +19,7 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: R.SANJAI
 RegisterNumber: 212223040180 
 */
-
+```py
 import pandas as pd
 data=pd.read_csv("Placement_Data.csv")
 data.head()
@@ -109,7 +109,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![Screenshot 2024-09-30 094314](https://github.com/user-attachments/assets/13ee32d4-d752-4ab9-9574-1bca0d998385)
 
-# 11.PREDICTION OF LR:
+
+
 
 
 
